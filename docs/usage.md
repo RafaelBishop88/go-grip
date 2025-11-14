@@ -13,3 +13,4 @@ Notes and usage details for go-grip.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
